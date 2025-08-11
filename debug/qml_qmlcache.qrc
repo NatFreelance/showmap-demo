@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<RCC>
+    <qresource prefix="/">
+        <file alias="test.qml">../../newfolder/showmap/test.qml</file>
+        <file alias="offlinemap.qml">../../newfolder/showmap/offlinemap.qml</file>
+        <file alias="mymap.qml">../../newfolder/showmap/mymap.qml</file>
+        <file alias="mymap2.qml">../../newfolder/showmap/mymap2.qml</file>
+        <file alias="image/catalog.png">../../newfolder/showmap/image/catalog.png</file>
+        <file alias="image/clear_all.png">../../newfolder/showmap/image/clear_all.png</file>
+        <file alias="image/copter32.png">../../newfolder/showmap/image/copter32.png</file>
+        <file alias="image/copternotactive.png">../../newfolder/showmap/image/copternotactive.png</file>
+        <file alias="image/marker.png">../../newfolder/showmap/image/marker.png</file>
+        <file alias="image/play.png">../../newfolder/showmap/image/play.png</file>
+        <file alias="image/remote32.png">../../newfolder/showmap/image/remote32.png</file>
+        <file alias="image/remotenotactive.png">../../newfolder/showmap/image/remotenotactive.png</file>
+        <file alias="image/savemap.png">../../newfolder/showmap/image/savemap.png</file>
+        <file alias="image/scale.png">../../newfolder/showmap/image/scale.png</file>
+        <file alias="image/scale_end.png">../../newfolder/showmap/image/scale_end.png</file>
+        <file alias="image/settings.png">../../newfolder/showmap/image/settings.png</file>
+        <file alias="image/settings2.png">../../newfolder/showmap/image/settings2.png</file>
+        <file alias="image/station.png">../../newfolder/showmap/image/station.png</file>
+        <file alias="image/station24.png">../../newfolder/showmap/image/station24.png</file>
+        <file alias="image/station32.png">../../newfolder/showmap/image/station32.png</file>
+        <file alias="image/station_sm.png">../../newfolder/showmap/image/station_sm.png</file>
+        <file alias="image/stationnotactive.png">../../newfolder/showmap/image/stationnotactive.png</file>
+        <file alias="image/stop.png">../../newfolder/showmap/image/stop.png</file>
+    </qresource>
+</RCC>

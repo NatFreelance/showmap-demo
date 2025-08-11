@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>test.qml</file>
+        <file>offlinemap.qml</file>
+        <file>mymap.qml</file>
+        <file>mymap2.qml</file>
+        <file>image/catalog.png</file>
+        <file>image/clear_all.png</file>
+        <file>image/copter32.png</file>
+        <file>image/copternotactive.png</file>
+        <file>image/marker.png</file>
+        <file>image/play.png</file>
+        <file>image/remote32.png</file>
+        <file>image/remotenotactive.png</file>
+        <file>image/savemap.png</file>
+        <file>image/scale.png</file>
+        <file>image/scale_end.png</file>
+        <file>image/settings.png</file>
+        <file>image/settings2.png</file>
+        <file>image/station.png</file>
+        <file>image/station24.png</file>
+        <file>image/station32.png</file>
+        <file>image/station_sm.png</file>
+        <file>image/stationnotactive.png</file>
+        <file>image/stop.png</file>
+    </qresource>
+</RCC>

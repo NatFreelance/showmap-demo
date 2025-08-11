@@ -1,0 +1,5 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="/">
+<file alias="helper.js">/home/ngubar/Projects/newfolder/showmap/helper.js</file>
+</qresource>
+</RCC>
